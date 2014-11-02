@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>LevelHelper 2</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>spaceflier_01_a</key>
+		<dict>
+			<key>frame</key>
+			<string>{{356.000000, 596.000000}, {151.000000, 96.000000}}</string>
+			<key>offset</key>
+			<string>{19.000000, 0.500000}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{56.000000, 12.000000}, {151.000000, 96.000000}}</string>
+			<key>sourceSize</key>
+			<string>{225.000000, 121.000000}</string>
+			<key>uuid</key>
+			<string>AF7A5D7A-81BE-46DF-9707-58586DBA5DB2</string>
+		</dict>
+		<key>spaceflier_01_a@2x</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4.000000, 610.000000}, {300.000000, 194.000000}}</string>
+			<key>offset</key>
+			<string>{38.000000, 1.000000}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{113.000000, 23.000000}, {300.000000, 194.000000}}</string>
+			<key>sourceSize</key>
+			<string>{450.000000, 242.000000}</string>
+			<key>uuid</key>
+			<string>D31D5B56-9F39-4DD8-8392-1CB87C77F85E</string>
+		</dict>
+		<key>spaceflier_01_b</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4.000000, 812.000000}, {148.000000, 96.000000}}</string>
+			<key>offset</key>
+			<string>{20.500000, 0.500000}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13.000000, 59.000000}, {96.000000, 148.000000}}</string>
+			<key>sourceSize</key>
+			<string>{225.000000, 121.000000}</string>
+			<key>uuid</key>
+			<string>999161AF-43F7-473E-87C2-AEDD3BBBAAB7</string>
+		</dict>
+		<key>spaceflier_01_b@2x</key>
+		<dict>
+			<key>frame</key>
+			<string>{{312.000000, 700.000000}, {294.000000, 194.000000}}</string>
+			<key>offset</key>
+			<string>{41.000000, 1.000000}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{25.000000, 119.000000}, {194.000000, 294.000000}}</string>
+			<key>sourceSize</key>
+			<string>{450.000000, 242.000000}</string>
+			<key>uuid</key>
+			<string>D78E9E7A-36A1-4A9E-8B62-55D2B29FDDAD</string>
+		</dict>
+		<key>spaceflier_02_a</key>
+		<dict>
+			<key>frame</key>
+			<string>{{356.000000, 415.000000}, {173.000000, 96.000000}}</string>
+			<key>offset</key>
+			<string>{8.000000, 0.500000}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13.000000, 34.000000}, {96.000000, 173.000000}}</string>
+			<key>sourceSize</key>
+			<string>{225.000000, 121.000000}</string>
+			<key>uuid</key>
+			<string>3B628410-1149-43B4-A7F2-6387B5DB9505</string>
+		</dict>
+		<key>spaceflier_02_a@2x</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4.000000, 408.000000}, {344.000000, 194.000000}}</string>
+			<key>offset</key>
+			<string>{16.000000, 1.000000}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{69.000000, 23.000000}, {344.000000, 194.000000}}</string>
+			<key>sourceSize</key>
+			<string>{450.000000, 242.000000}</string>
+			<key>uuid</key>
+			<string>23C044C2-10AA-46EE-9536-8189162EF3DA</string>
+		</dict>
+		<key>spaceflier_03_a</key>
+		<dict>
+			<key>frame</key>
+			<string>{{408.000000, 4.000000}, {199.000000, 96.000000}}</string>
+			<key>offset</key>
+			<string>{-5.000000, 0.500000}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13.000000, 8.000000}, {96.000000, 199.000000}}</string>
+			<key>sourceSize</key>
+			<string>{225.000000, 121.000000}</string>
+			<key>uuid</key>
+			<string>40B89B48-C3EB-467E-90E5-AC70995CA4F0</string>
+		</dict>
+		<key>spaceflier_03_a@2x</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4.000000, 4.000000}, {396.000000, 194.000000}}</string>
+			<key>offset</key>
+			<string>{-10.000000, 1.000000}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17.000000, 23.000000}, {396.000000, 194.000000}}</string>
+			<key>sourceSize</key>
+			<string>{450.000000, 242.000000}</string>
+			<key>uuid</key>
+			<string>1DAC3564-FA64-4D3A-A4D0-151EA8C600BC</string>
+		</dict>
+		<key>spaceflier_03_b</key>
+		<dict>
+			<key>frame</key>
+			<string>{{402.000000, 211.000000}, {196.000000, 96.000000}}</string>
+			<key>offset</key>
+			<string>{-3.500000, 0.500000}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13.000000, 11.000000}, {96.000000, 196.000000}}</string>
+			<key>sourceSize</key>
+			<string>{225.000000, 121.000000}</string>
+			<key>uuid</key>
+			<string>166BA5E8-F490-4FF4-A3B8-C0434718D251</string>
+		</dict>
+		<key>spaceflier_03_b@2x</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4.000000, 206.000000}, {390.000000, 194.000000}}</string>
+			<key>offset</key>
+			<string>{-7.000000, 1.000000}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23.000000, 23.000000}, {390.000000, 194.000000}}</string>
+			<key>sourceSize</key>
+			<string>{450.000000, 242.000000}</string>
+			<key>uuid</key>
+			<string>9E2134A5-58C2-4871-AE90-06BBC01FB426</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>ratio</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{511.000000, 998.000000}</string>
+		<key>textureFileName</key>
+		<string>SpaceshipSH.png</string>
+	</dict>
+</dict>
+</plist>
