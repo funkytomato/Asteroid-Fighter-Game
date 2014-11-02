@@ -144,13 +144,13 @@
 						<key>angularDamping</key>
 						<real>0.0</real>
 						<key>angularVelocity</key>
-						<real>0.0</real>
+						<real>0.30000001192092896</real>
 						<key>bullet</key>
 						<false/>
 						<key>fixedRotation</key>
 						<false/>
 						<key>fixtureUUID</key>
-						<string>D216E98B-EBE7-4294-97BD-722D72557979</string>
+						<string>404EDF61-FBB7-491D-A3E9-6454AFA3B3DD</string>
 						<key>genericFixture</key>
 						<dict>
 							<key>category</key>
@@ -364,7 +364,7 @@
 	</array>
 	<key>tracedFixtures</key>
 	<dict>
-		<key>D216E98B-EBE7-4294-97BD-722D72557979</key>
+		<key>404EDF61-FBB7-491D-A3E9-6454AFA3B3DD</key>
 		<array>
 			<array>
 				<string>{-35.25, -6.75}</string>

@@ -18,7 +18,7 @@
 			<key>SuffixName</key>
 			<string></string>
 			<key>color</key>
-			<string>{{0.94685918092727661, 0}, {0.052827715873718262, 1}}</string>
+			<string>{{0.9202883243560791, 0}, {0.056489113718271255, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
@@ -32,7 +32,7 @@
 			<key>SuffixName</key>
 			<string>-iphone5</string>
 			<key>color</key>
-			<string>{{1, 1}, {0.069278374314308167, 1}}</string>
+			<string>{{1, 1}, {0.073568858206272125, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
@@ -46,7 +46,7 @@
 			<key>SuffixName</key>
 			<string>-iphone6</string>
 			<key>color</key>
-			<string>{{0.94685918092727661, 0}, {0.052827715873718262, 1}}</string>
+			<string>{{0.9202883243560791, 0}, {0.056489113718271255, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
@@ -60,7 +60,7 @@
 			<key>SuffixName</key>
 			<string>-iphone6plus</string>
 			<key>color</key>
-			<string>{{0.94685918092727661, 0}, {0.052827715873718262, 1}}</string>
+			<string>{{0.9202883243560791, 0}, {0.056489113718271255, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
@@ -74,7 +74,7 @@
 			<key>SuffixName</key>
 			<string>-ipad</string>
 			<key>color</key>
-			<string>{{0.94225907325744629, 0}, {0.99652361869812012, 1}}</string>
+			<string>{{0.91338986158370972, 0}, {0.99462723731994629, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
@@ -88,7 +88,7 @@
 			<key>SuffixName</key>
 			<string>-ipadhd</string>
 			<key>color</key>
-			<string>{{0.94225907325744629, 0}, {0.99652361869812012, 1}}</string>
+			<string>{{0.91338986158370972, 0}, {0.99462723731994629, 1}}</string>
 		</dict>
 	</array>
 	<key>engine</key>

@@ -58,6 +58,7 @@
     CGFloat angVel = [[node physicsBody] angularVelocity];
     
     NSLog(@"%@ angular velocity: %f", node.name, angVel);
+    return self;
 }
 
 -(id)handleSpaceship
@@ -80,9 +81,9 @@
     }
   */
     
-    [self thruster];
+    //[self thruster];
     
-    //[self rotateLeft];
+    [self rotateLeft];
     
     
     return self;
